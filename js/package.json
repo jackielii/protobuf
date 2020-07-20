@@ -1,7 +1,7 @@
 {
-  "name": "google-protobuf",
+  "name": "google-protobuf-tes",
   "version": "3.12.3",
-  "description": "Protocol Buffers for JavaScript",
+  "description": "Protocol Buffers for JavaScript, forked to enable binary encoder & decoder",
   "main": "google-protobuf.js",
   "files": [
     "google"
