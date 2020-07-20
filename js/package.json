@@ -3,6 +3,7 @@
   "version": "3.12.3",
   "description": "Protocol Buffers for JavaScript, forked to enable binary encoder & decoder",
   "main": "google-protobuf.js",
+  "types": "google-protobuf.d.ts",
   "files": [
     "google"
   ],
