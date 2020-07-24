@@ -5,7 +5,8 @@
   "main": "google-protobuf.js",
   "types": "google-protobuf.d.ts",
   "files": [
-    "google", "google-protobuf.d.ts"
+    "google",
+    "google-protobuf.d.ts"
   ],
   "dependencies": {},
   "devDependencies": {
