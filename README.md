@@ -1,6 +1,21 @@
 Protocol Buffers - Google's data interchange format
 ===================================================
 
+**TES fork**
+
+why: https://github.com/protocolbuffers/protobuf/issues/7739
+
+test, build & publish:
+
+```
+npm i
+PROTOC=/home/linuxbrew/.linuxbrew/bin/protoc npm test
+PROTOC=/home/linuxbrew/.linuxbrew/bin/protoc npx gulp dist
+npm pub
+``
+
+**Original README**
+
 Copyright 2008 Google Inc.
 
 https://developers.google.com/protocol-buffers/
