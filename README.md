@@ -12,7 +12,7 @@ npm i
 PROTOC=/home/linuxbrew/.linuxbrew/bin/protoc npm test
 PROTOC=/home/linuxbrew/.linuxbrew/bin/protoc npx gulp dist
 npm pub
-``
+```
 
 **Original README**
 
